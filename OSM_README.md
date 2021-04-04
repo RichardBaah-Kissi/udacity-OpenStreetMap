@@ -37,4 +37,12 @@ It is revealed that some of the Streets are mislabelled or are not following a c
 
 ## Overview of the Data:
 It is noted that the individual users who contributed to the population of the accra.osm dataset by count of the uid are 604
+
+### Database Analysis of the "accra.osm" dataset.
+![image](https://user-images.githubusercontent.com/38989265/113506774-d62ba080-9514-11eb-94d6-031ef4a1471c.png)
+
+
+
+
+
 ## Other ideas about the datasets
