@@ -35,5 +35,6 @@ It is revealed that some of the Streets are mislabelled or are not following a c
                 'Odoitso street',
                 'chief Ali kado street'])}
 
-## Overview of the Data
+## Overview of the Data:
+It is noted that the individual users who contributed to the population of the accra.osm dataset by count of the uid are 604
 ## Other ideas about the datasets
