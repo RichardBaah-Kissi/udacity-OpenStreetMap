@@ -40,6 +40,7 @@ It is noted that the individual users who contributed to the population of the a
 The "accra.osm dataset was exported from the Open Street Map longitude and latitude cordinates indicated below;
 
 Latitude:   (5.5374728) -   (5.6204636)
+
 Longitude:  (-0.2829985) - (-0.1559462) 
 
 ![image](https://user-images.githubusercontent.com/38989265/113507306-97e3b080-9517-11eb-9d18-e238dd74338b.png)
