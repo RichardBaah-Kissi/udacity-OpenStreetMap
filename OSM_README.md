@@ -38,6 +38,7 @@ It is revealed that some of the Streets are mislabelled or are not following a c
 ## Overview of the Data:
 It is noted that the individual users who contributed to the population of the accra.osm dataset by count of the uid are 604
 The "accra.osm dataset is exported from the Open Street Map longitudes and latitude cordinates indicated below;
+
 Latitudes:   (5.5374728) -   (5.6204636)
 LongitudeS:  (-0.2829985) - (-0.1559462) 
 
