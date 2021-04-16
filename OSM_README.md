@@ -39,6 +39,13 @@ It is revealed that some of the Streets are mislabelled or are not following a c
 It is noted that the individual users who contributed to the population of the accra.osm dataset by count of the uid are 604
 The "accra.osm dataset was exported from the Open Street Map longitude and latitude cordinates indicated below;
 
+## Database & Schema Objects
+- We will create an SQLITE database called (accra_new.db). A DDL statement with five table definitions (nodes, nodes_tags, ways, ways_tags, and ways_nodes) will be read into the database.
+- The corresponding CSV data will be imported into the defined tables.
+
+![image](https://user-images.githubusercontent.com/38989265/114968594-aea5d380-9e44-11eb-9b09-d5ace1902148.png)
+
+
 Latitude:   (5.5374728) -   (5.6204636)
 
 Longitude:  (-0.2829985) - (-0.1559462) 
